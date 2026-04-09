@@ -1,0 +1,10 @@
+{
+  "venvPath": "C:\\Python313",
+  "pythonPath": "C:\\Python313\\python.exe",
+  "include": [
+    "."
+  ],
+  "exclude": [
+    "**/__pycache__"
+  ]
+}

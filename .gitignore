@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+
+# Environment variables
+.env
+
+# Pytest
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
